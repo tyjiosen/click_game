@@ -15,7 +15,4 @@ mv cjson.so ../../luaclib/cjson.so
 
 ./run.sh
 
-now you can visit: http://0.0.0.0:8001/index.html
-
-
-example: http://101.132.70.125:8001/index.html 
+now you can visit: http://0.0.0.0:521/index.html
